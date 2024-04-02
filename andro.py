@@ -9,3 +9,9 @@ alas = float(input("input alas segitiga"))
 tinggi = float(input("input tinggi segitiga"))
 
 print("luas segitiga = ",hitungluassegtiga(alas,tinggi))
+print()
+
+print("program python menghtung panjang persegi")
+print("==============================")
+print()
+
